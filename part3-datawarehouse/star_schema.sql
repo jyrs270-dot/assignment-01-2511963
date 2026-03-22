@@ -63,3 +63,4 @@ INSERT INTO fact_sales VALUES
 (8,2,3,3,3,3000),
 (9,3,3,3,4,240),
 (10,1,1,2,1,60000);
+-- Data is based on retail_transactions.csv provided in dataset
