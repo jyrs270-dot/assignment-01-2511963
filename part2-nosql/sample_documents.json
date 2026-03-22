@@ -1,28 +1,32 @@
 [
   {
-    "name": "iPhone 15",
+    "name": "Samsung Galaxy S23",
     "category": "Electronics",
-    "price": 80000,
+    "price": 75000,
+    "brand": "Samsung",
     "specs": {
       "ram": "8GB",
-      "storage": "128GB"
+      "storage": "256GB",
+      "battery": "3900mAh"
     },
-    "brand": "Apple"
+    "warranty_years": 1
   },
   {
-    "name": "T-Shirt",
+    "name": "Running Shoes",
     "category": "Clothing",
-    "price": 1000,
-    "size": ["S", "M", "L"],
-    "material": "Cotton",
-    "brand": "Nike"
+    "price": 3000,
+    "brand": "Adidas",
+    "sizes": [7, 8, 9, 10],
+    "material": "Mesh",
+    "colors": ["Black", "White"]
   },
   {
-    "name": "Milk",
+    "name": "Organic Eggs",
     "category": "Groceries",
-    "price": 60,
-    "expiry_date": "2024-12-01",
-    "quantity": "1L",
-    "organic": true
+    "price": 120,
+    "brand": "Farm Fresh",
+    "expiry_date": "2024-12-15",
+    "quantity": "12 pieces",
+    "is_organic": true
   }
 ]
