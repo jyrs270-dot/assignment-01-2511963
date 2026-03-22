@@ -16,3 +16,4 @@ Keeping all data in a single table leads to redundancy and inconsistency. For in
 Normalization divides the data into separate tables such as customers, products, orders, and sales representatives. This reduces duplication and ensures data consistency. Relationships between tables using foreign keys maintain data integrity and prevent anomalies such as insert, update, and delete issues.
 
 Therefore, normalization is not over-engineering but a necessary step to create a scalable, efficient, and reliable database system.
+The anomalies are observed from the provided dataset orders_flat.csv, where customer and product details are repeated across multiple rows.
