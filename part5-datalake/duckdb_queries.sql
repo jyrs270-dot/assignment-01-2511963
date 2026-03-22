@@ -17,3 +17,4 @@ SELECT * FROM 'customers.csv'
 UNION ALL
 SELECT * FROM 'orders.json';
 FROM 'customers.csv'
+-- Using provided dataset files: customers.csv, orders.json, products.parquet
