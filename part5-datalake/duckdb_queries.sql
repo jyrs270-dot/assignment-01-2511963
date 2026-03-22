@@ -16,3 +16,4 @@ CREATE VIEW unified_data AS
 SELECT * FROM 'customers.csv'
 UNION ALL
 SELECT * FROM 'orders.json';
+FROM 'customers.csv'
